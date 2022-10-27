@@ -1,0 +1,16 @@
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ParametersArray.csproj.AssemblyReference.cache
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ParametersArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ParametersArray.AssemblyInfoInputs.cache
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ParametersArray.AssemblyInfo.cs
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ParametersArray.csproj.CoreCompileInputs.cache
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\bin\Debug\net5.0\ParametersArray.exe
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\bin\Debug\net5.0\ParametersArray.deps.json
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\bin\Debug\net5.0\ParametersArray.runtimeconfig.json
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\bin\Debug\net5.0\ParametersArray.runtimeconfig.dev.json
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\bin\Debug\net5.0\ParametersArray.dll
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\bin\Debug\net5.0\ParametersArray.pdb
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ParametersArray.dll
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\refint\ParametersArray.dll
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ParametersArray.pdb
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ParametersArray.genruntimeconfig.cache
+C:\Users\midth\Desktop\c#\ParametersArray\ParametersArray\obj\Debug\net5.0\ref\ParametersArray.dll
