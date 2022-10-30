@@ -9,6 +9,16 @@ namespace ParametersArray
             int[] studentsGrades = new int[] { 88, 91, 76, 64, 60, 99, 74 };
            Console.WriteLine(GetAverage(studentsGrades));
 
+            int[] happiness = { 2, 3, 4, 5, 6 };
+            SunIsShining(happiness);
+
+            foreach(int y in happiness)
+            {
+                Console.WriteLine(y);
+
+            }
+            Console.ReadLine();
+
             foreach(int student in studentsGrades)
             {
                 if(student > 89)
@@ -50,5 +60,14 @@ namespace ParametersArray
 
             return average;
         }
+
+        static void SunIsShining(int[] x)
+        {
+            for(int i =0; i < x.Length; i++ )
+            {
+                x[i] += 2;
+            }
+        }
+
     }
 }
